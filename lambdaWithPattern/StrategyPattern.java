@@ -1,6 +1,3 @@
-
-
-
 import strategy_method_pattern.*;
 
 /*

@@ -1,6 +1,3 @@
-
-
-
 import java.util.*;
 import factory_method_pattern.*;
 

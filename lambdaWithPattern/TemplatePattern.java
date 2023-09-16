@@ -1,5 +1,3 @@
-
-
 import java.util.function.Consumer;
 import template_method_pattern.*;
 

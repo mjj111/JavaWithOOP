@@ -1,5 +1,3 @@
-
-
 import chain_of_responsibility_method_pattern.HeaderTextProcessing;
 import chain_of_responsibility_method_pattern.ProcessingObject;
 import chain_of_responsibility_method_pattern.SpellCheckProcessing;

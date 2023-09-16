@@ -1,5 +1,3 @@
-
-
 import observer_method_pattern.*;
 
 /*
